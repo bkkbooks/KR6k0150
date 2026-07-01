@@ -1,0 +1,214 @@
+canonical_identifier: bkk:krp/KR6k0150/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0150/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分戒本約義
+  identifiers:
+    krp: KR6k0150
+    cbeta: X40n0718
+    cbeta_old_id: X40n0718
+    authorityid: CA0002788
+    json_key: X0718
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X40/X40n0718.xml
+    old_id: X40n0718
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0150_000-X.yaml, hash: 'sha256:8857d1007ba68e57816a5a4a14444479b71bc2ecb8e1ec1b2205723f6a208950'}
+  - {seq: 1, filename: KR6k0150_001-X.yaml, hash: 'sha256:32d016b5200dd5e33356fd6f7e196fe348989b30bb80bf26559c00b6f459d260'}
+  - {seq: 2, filename: KR6k0150_002-X.yaml, hash: 'sha256:9e42f567171de8df4f1ff779b2fa74e0f3eb9f362c1e60b7049fed4dd8332baf'}
+  - {seq: 3, filename: KR6k0150_003-X.yaml, hash: 'sha256:d5838ef41dcec4b5f75881cfd91b27d6b1e8331a8d956e04a3d83d386e7f972a'}
+  - {seq: 4, filename: KR6k0150_004-X.yaml, hash: 'sha256:e47ec2f70a0c3acdba657296f99bc1922208336cf8408d7430b9561e327a5032'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0150_000-X.markers.yaml, hash: 'sha256:8fafdf01d0dd9441256d0a01ec98c9dc714f7ea2944654fa9fa24ef7e9c04b2e'}
+  - {seq: 1, role: markers, filename: assets/KR6k0150_001-X.markers.yaml, hash: 'sha256:54ffec94dadc23afade9985c611d8b4a76edb94e47a489e5d63f39fab8bdc68a'}
+  - {seq: 2, role: markers, filename: assets/KR6k0150_002-X.markers.yaml, hash: 'sha256:826efb5a3a63333862832eab9a7664834c1cec1364f84cc60495d1f407785e21'}
+  - {seq: 3, role: markers, filename: assets/KR6k0150_003-X.markers.yaml, hash: 'sha256:337577a86b61d641d3ac5bf152b3a828325f76864847d82bc0fac24bb8053e4d'}
+  - {seq: 4, role: markers, filename: assets/KR6k0150_004-X.markers.yaml, hash: 'sha256:a20a34f4588ded293bba3755c8d7103a2af7aa54ed51ec12c934c2a917d648cb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0150_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 718-A 四分戒本約義序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0150_X_000-mulu-2
+    span:
+    - front
+    - 420
+    - 420
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0150_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8622
+  label: 四分戒本約義卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0150_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 戒經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0150_X_001-mulu-2
+    span:
+    - body
+    - 1913
+    - 1913
+  label: 四波羅夷法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0150_X_001-mulu-3
+    span:
+    - body
+    - 3788
+    - 3788
+  label: 十三僧伽婆尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0150_X_001-mulu-4
+    span:
+    - body
+    - 8119
+    - 8119
+  label: 二不定法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0150_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 11960
+  label: 四分戒本約義卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0150_X_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 三十尼薩耆波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0150_X_002-mulu-2
+    span:
+    - body
+    - 6253
+    - 6253
+  label: 九十波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0150_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 12460
+  label: 四分戒本約義卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0150_X_003-mulu-1
+    span:
+    - body
+    - 11338
+    - 11338
+  label: 四波羅提提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0150_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 8745
+  label: 四分戒本約義卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0150_X_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 眾學法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0150_X_004-mulu-2
+    span:
+    - body
+    - 4073
+    - 4073
+  label: 七滅諍法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0150_X_004-mulu-3
+    span:
+    - body
+    - 5676
+    - 5676
+  label: 總結
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0150_X_004-mulu-4
+    span:
+    - body
+    - 5903
+    - 5903
+  label: 七佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0150_X_004-mulu-5
+    span:
+    - body
+    - 8627
+    - 8627
+  label: 迴向頌
+  type: mulu
+  level: 1
+hash: sha256:a39b9410020d5c40bed61b76eb3d40f299672db54a0023d269128218e8839777
